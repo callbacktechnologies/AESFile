@@ -26,7 +26,7 @@ python aesfile.py -e C:\myfiles\*.txt
 
 The structure and behavior of AESF files are defined in the open format documentation, available here:
 
-[https://www.aesdrive.com](https://www.aesdrive.com)
+[https://aesdrive.com](https://aesdrive.com)
 
 This script adheres to the specification to ensure compatibility with AES Drive.
 
@@ -36,4 +36,4 @@ This project is released under the MIT License.
 
 ## Attribution
 
-This project is based on work from [janiko71](https://github.com/janiko71).
+This project was inspired by work from [janiko71](https://github.com/janiko71).
